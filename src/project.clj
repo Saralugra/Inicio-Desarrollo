@@ -2,8 +2,4 @@
 (def filereader (slurp "resources/Lista Consolidada del Consejo de Seguridad de las Naciones Unidas.txt"))
 (def filereaderOFAC (slurp "resources/LISTA OFAC.txt"))
 filereader
-filereaderOFAC
-
-(def hola "Hola sara y yorman")
-
-
+filereaderOF
